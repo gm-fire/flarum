@@ -45,10 +45,10 @@
         "flarum/tags": "*",
         "fof/best-answer": "*",
         "fof/linguist": "^1.1",
-        "fof/passport": "^1.1",
-        "fof/username-request": "*",
         "gbcl/userip": "*",
         "gitzaai/mobile-ui-tab-2": "^0.1.0",
+        "gm-fire/nicknames": "*",
+        "gm-fire/passport": "*",
         "justoverclock/hot-discussions": "*",
         "zequeen/acgembed-remastered": "^1.1"
     },
