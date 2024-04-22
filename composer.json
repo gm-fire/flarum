@@ -47,6 +47,7 @@
         "fof/linguist": "^1.1",
         "gbcl/userip": "*",
         "gitzaai/mobile-ui-tab-2": "^0.1.0",
+        "gm-fire/nexusphp-api": "*@dev",
         "gm-fire/nicknames": "*",
         "gm-fire/passport": "*",
         "justoverclock/hot-discussions": "*",
@@ -55,5 +56,9 @@
     "config": {
         "preferred-install": "dist",
         "sort-packages": true
-    }
+    },
+    "repositories": [{
+            "type": "path",
+            "url": "packages/*"
+        }]
 }
